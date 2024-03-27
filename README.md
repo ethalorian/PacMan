@@ -1,10 +1,10 @@
 # PacMan
 A portfolio exercise for bootcamp
 
-Description
+#Description
 This project is a simple implementation of the classic Pacman game using HTML, CSS, and JavaScript. Players can add Pacman characters to the screen and watch them move around randomly, bouncing off the edges of the window.
 
-How to Run
+#How to Run
 To run this game, follow these steps:
 
 Clone this repository to your local machine.
